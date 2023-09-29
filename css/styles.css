@@ -207,6 +207,10 @@ body {
 
 /* Portfolio */
 
+.portfolio {
+  padding: 94px 0;
+}
+
 .portfolio-btn {
   color: var(--title-color, #212121);
   text-align: center;
