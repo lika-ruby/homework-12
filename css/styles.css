@@ -91,6 +91,7 @@ body {
 .hero-button {
   color: var(--second-accent-color, #fff);
   text-align: center;
+  padding: 10px 32px;
   font-size: 16px;
   font-weight: 700;
   line-height: 1.87;
